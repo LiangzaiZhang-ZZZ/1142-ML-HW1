@@ -1,0 +1,10 @@
+solution.py
+tests/test_HW1.py
+grading_test_b64.txt
+
+__pycache__/
+*.pyc
+.pytest_cache/
+test_results/
+grades_analyzed.csv
+.ipynb_checkpoints/
